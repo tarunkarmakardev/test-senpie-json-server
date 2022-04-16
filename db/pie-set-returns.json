@@ -1,0 +1,12 @@
+{
+  "returns": {
+    "day": 10,
+    "week": 10,
+    "year": 80,
+    "halfYear": 50,
+    "quarterYear": 10,
+    "month": 0
+  },
+  "minInvestment": 1000,
+  "maxInvestment": 9000
+}

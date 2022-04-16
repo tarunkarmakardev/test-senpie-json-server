@@ -1,0 +1,59 @@
+{
+  "currency": "$",
+  "currencyName": "USD",
+  "id": "xx1",
+  "title": "Crypto Blue Chip Constituents",
+  "tableBodyData": [
+    {
+      "id": "xxx1",
+      "image": "https://images.mudrex.com/BTC.png",
+      "name": {
+        "title": "BitCoin",
+        "subtitle": "BTC"
+      },
+      "weightage": 20,
+      "returns": {
+        "day": 10,
+        "week": 10,
+        "year": 80,
+        "halfYear": 50,
+        "quarterYear": 10,
+        "month": 0
+      }
+    },
+    {
+      "id": "xxx2",
+      "image": "https://images.mudrex.com/ETH.png",
+      "name": {
+        "title": "Ethereum",
+        "subtitle": "ETH"
+      },
+      "weightage": 40,
+      "returns": {
+        "day": 10,
+        "week": 10,
+        "year": 80,
+        "halfYear": 50,
+        "quarterYear": 10,
+        "month": 0
+      }
+    },
+    {
+      "id": "xxx3",
+      "image": "https://images.mudrex.com/BNB.png",
+      "name": {
+        "title": "BNB",
+        "subtitle": "BNB"
+      },
+      "weightage": 30,
+      "returns": {
+        "day": 10,
+        "week": 10,
+        "year": 80,
+        "halfYear": 50,
+        "quarterYear": 10,
+        "month": 0
+      }
+    }
+  ]
+}

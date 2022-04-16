@@ -1,0 +1,458 @@
+{
+  "overall-stats": {
+    "assetValue": 3000,
+    "returns": {
+      "day": 10,
+      "week": 10,
+      "year": 80,
+      "halfYear": 50,
+      "quarterYear": 10,
+      "month": 0
+    },
+    "profitsGained": 1000,
+    "piesData": [
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/BTC.png",
+        "title": "BTC",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/ETH.png",
+        "title": "ETH",
+        "weightage": 15
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/BNB.png",
+        "title": "BNB",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/ADA.png",
+        "title": "ADA",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/SOL.png",
+        "title": "SOL",
+        "weightage": 5
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/ALGO.png",
+        "title": "ALGO",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/DOT.png",
+        "title": "DOT",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/AXS.png",
+        "title": "AXS",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/ENJ.png",
+        "title": "ENJ",
+        "weightage": 20
+      }
+    ],
+    "perforamanceGraphData": {
+      "timestamps": [
+        1613658240, 1614707580, 1615762320, 1616811660, 1617861000, 1618919340,
+        1619985720, 1621035060, 1622084400, 1623133740, 1624183080, 1625232420,
+        1626281760, 1627331100, 1628380440, 1629445980, 1630495320, 1631544660,
+        1632594000, 1633650540, 1634699880, 1635749220, 1636798560, 1637847900,
+        1638897240, 1639946580, 1640995920, 1642045260, 1643094600, 1644143940,
+        1645193280
+      ],
+      "values": [
+        48, 4, 24, 18, 44, 79, 70, 13, 59, 84, 3, 37, 78, 67, 54, 50, 3, 26, 1,
+        1, 0, 16, 72, 8, 40, 44, 48, 100, 40, 27, 28, 7, 94
+      ]
+    },
+    "performanceTableData": [
+      {
+        "id": "xxx1",
+        "image": "https://images.mudrex.com/BTC.png",
+        "name": {
+          "title": "BitCoin",
+          "subtitle": "BTC"
+        },
+        "returns": {
+          "day": 10,
+          "week": 10,
+          "year": 80,
+          "halfYear": 50,
+          "quarterYear": 10,
+          "month": 0
+        },
+        "value": "$500"
+      },
+      {
+        "id": "xxx2",
+        "image": "https://images.mudrex.com/ETH.png",
+        "name": {
+          "title": "Ethereum",
+          "subtitle": "ETH"
+        },
+        "returns": {
+          "day": 10,
+          "week": 10,
+          "year": 80,
+          "halfYear": 50,
+          "quarterYear": 10,
+          "month": 0
+        },
+        "value": "$300"
+      },
+      {
+        "id": "xxx3",
+        "image": "https://images.mudrex.com/BNB.png",
+        "name": {
+          "title": "BNB",
+          "subtitle": "BNB"
+        },
+        "returns": {
+          "day": 10,
+          "week": 10,
+          "year": 80,
+          "halfYear": 50,
+          "quarterYear": 10,
+          "month": 0
+        },
+        "value": "$900"
+      }
+    ]
+  },
+  "my-pies": {
+    "currency": "$",
+    "currencyName": "USD",
+    "tableData": [
+      {
+        "id": "xxx1",
+        "name": "Meme Pie 1",
+        "returns": {
+          "day": 10,
+          "week": 10,
+          "year": 80,
+          "halfYear": 50,
+          "quarterYear": 10,
+          "month": 0
+        },
+        "pieValue": 500,
+        "piesData": [
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/BTC.png",
+            "title": "BTC",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/ETH.png",
+            "title": "ETH",
+            "weightage": 15
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/BNB.png",
+            "title": "BNB",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/ADA.png",
+            "title": "ADA",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/SOL.png",
+            "title": "SOL",
+            "weightage": 5
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/ALGO.png",
+            "title": "ALGO",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/DOT.png",
+            "title": "DOT",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/AXS.png",
+            "title": "AXS",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/ENJ.png",
+            "title": "ENJ",
+            "weightage": 20
+          }
+        ]
+      },
+      {
+        "id": "xxx2",
+        "name": "Meme Pie 2",
+        "returns": {
+          "day": 10,
+          "week": 10,
+          "year": 80,
+          "halfYear": 50,
+          "quarterYear": 10,
+          "month": 0
+        },
+        "pieValue": 100,
+        "piesData": [
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/BTC.png",
+            "title": "BTC",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/ETH.png",
+            "title": "ETH",
+            "weightage": 15
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/BNB.png",
+            "title": "BNB",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/ADA.png",
+            "title": "ADA",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/SOL.png",
+            "title": "SOL",
+            "weightage": 5
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/ALGO.png",
+            "title": "ALGO",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/DOT.png",
+            "title": "DOT",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/AXS.png",
+            "title": "AXS",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/ENJ.png",
+            "title": "ENJ",
+            "weightage": 20
+          }
+        ]
+      },
+      {
+        "id": "xxx3",
+        "name": "Meme Pie 2",
+        "returns": {
+          "day": 10,
+          "week": 10,
+          "year": 80,
+          "halfYear": 50,
+          "quarterYear": 10,
+          "month": 0
+        },
+        "pieValue": 500,
+        "piesData": [
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/BTC.png",
+            "title": "BTC",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/ETH.png",
+            "title": "ETH",
+            "weightage": 15
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/BNB.png",
+            "title": "BNB",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/ADA.png",
+            "title": "ADA",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/SOL.png",
+            "title": "SOL",
+            "weightage": 5
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/ALGO.png",
+            "title": "ALGO",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/DOT.png",
+            "title": "DOT",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/AXS.png",
+            "title": "AXS",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/ENJ.png",
+            "title": "ENJ",
+            "weightage": 20
+          }
+        ]
+      }
+    ],
+    "cardsData": [
+      {
+        "id": "xxx1",
+        "title": "Meme Pie",
+        "pieValue": 3000,
+        "returns": {
+          "day": 10,
+          "week": 10,
+          "year": 80,
+          "halfYear": 50,
+          "quarterYear": 10,
+          "month": 0
+        },
+        "assetsCount": 10,
+        "piesData": [
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/BTC.png",
+            "title": "BTC",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/ETH.png",
+            "title": "ETH",
+            "weightage": 15
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/BNB.png",
+            "title": "BNB",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/ADA.png",
+            "title": "ADA",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/SOL.png",
+            "title": "SOL",
+            "weightage": 5
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/ALGO.png",
+            "title": "ALGO",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/DOT.png",
+            "title": "DOT",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/AXS.png",
+            "title": "AXS",
+            "weightage": 10
+          },
+          {
+            "color": "#ffff",
+            "image": "https://images.mudrex.com/ENJ.png",
+            "title": "ENJ",
+            "weightage": 20
+          }
+        ],
+        "tableData": [
+          {
+            "id": "xxx1",
+            "image": "https://images.mudrex.com/BTC.png",
+            "name": {
+              "title": "BitCoin",
+              "subtitle": "BTC"
+            },
+            "returns": {
+              "day": 10,
+              "week": 10,
+              "year": 80,
+              "halfYear": 50,
+              "quarterYear": 10,
+              "month": 0
+            },
+            "yourFunds": 300
+          },
+          {
+            "id": "xxx2",
+            "image": "https://images.mudrex.com/ETH.png",
+            "name": {
+              "title": "Ethereum",
+              "subtitle": "ETH"
+            },
+            "returns": {
+              "day": 10,
+              "week": 10,
+              "year": 80,
+              "halfYear": 50,
+              "quarterYear": 10,
+              "month": 0
+            },
+            "yourFunds": 100
+          }
+        ]
+      }
+    ]
+  }
+}

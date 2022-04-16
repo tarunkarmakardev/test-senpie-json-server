@@ -1,0 +1,18 @@
+{
+  "name": "sen-pie-test-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "yarn json-server --watch db.json --port 8000 --routes routes.json --delay 2000",
+    "serve": "nodemon ./server.ts"
+  },
+  "dependencies": {
+    "@types/json-server": "^0.14.4",
+    "@types/node": "^17.0.23",
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}

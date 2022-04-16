@@ -1,0 +1,176 @@
+{
+  "currency": "$",
+  "currencyName": "USD",
+  "data": {
+    "id": "xxx1",
+    "title": "Crypto Blue Chip",
+    "subtitle": "Top 5 Crypto assets weighed by market cap",
+    "description": "A coin set composed of the most well recognized and reputed crypto tokens, Crypto Blue Chip coin set offers steady, long-term returns and is a safer bet in the market as it combines high market cap tokens, which are less prone to volatility and have a proven track record. The five constituent tokens are Bitcoin(BTC), Ethereum(ETH)",
+    "minInvestment": 200,
+    "investorsCount": 3000,
+    "isFree": true,
+    "originalMonthlyFee": "2%",
+    "coinsData": [
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/BTC.png",
+        "title": "BTC",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/ETH.png",
+        "title": "ETH",
+        "weightage": 15
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/BNB.png",
+        "title": "BNB",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/ADA.png",
+        "title": "ADA",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/SOL.png",
+        "title": "SOL",
+        "weightage": 5
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/ALGO.png",
+        "title": "ALGO",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/DOT.png",
+        "title": "DOT",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/AXS.png",
+        "title": "AXS",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/ENJ.png",
+        "title": "ENJ",
+        "weightage": 20
+      }
+    ],
+    "supportedExchanges": [
+      {
+        "image": "https://mudrex.com/assets/exchange-icons/binance.png",
+        "title": "Binance"
+      },
+      {
+        "image": "https://mudrex.com/assets/exchange-icons/binance.png",
+        "title": "Mudrex"
+      },
+      {
+        "image": "https://mudrex.com/assets/exchange-icons/binance.png",
+        "title": "Third"
+      },
+      {
+        "image": "https://mudrex.com/assets/exchange-icons/binance.png",
+        "title": "Forth"
+      },
+      {
+        "image": "https://mudrex.com/assets/exchange-icons/binance.png",
+        "title": "Fifth"
+      },
+      {
+        "image": "https://mudrex.com/assets/exchange-icons/binance.png",
+        "title": "Sixth"
+      }
+    ],
+    "returns": {
+      "day": 10,
+      "week": 10,
+      "year": 80,
+      "halfYear": 50,
+      "quarterYear": 10,
+      "month": 0
+    },
+    "piesData": [
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/BTC.png",
+        "title": "BTC",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/ETH.png",
+        "title": "ETH",
+        "weightage": 15
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/BNB.png",
+        "title": "BNB",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/ADA.png",
+        "title": "ADA",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/SOL.png",
+        "title": "SOL",
+        "weightage": 5
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/ALGO.png",
+        "title": "ALGO",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/DOT.png",
+        "title": "DOT",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/AXS.png",
+        "title": "AXS",
+        "weightage": 10
+      },
+      {
+        "color": "#ffff",
+        "image": "https://images.mudrex.com/ENJ.png",
+        "title": "ENJ",
+        "weightage": 20
+      }
+    ],
+    "graphData": {
+      "timestamps": [
+        1613658240, 1614707580, 1615762320, 1616811660, 1617861000, 1618919340,
+        1619985720, 1621035060, 1622084400, 1623133740, 1624183080, 1625232420,
+        1626281760, 1627331100, 1628380440, 1629445980, 1630495320, 1631544660,
+        1632594000, 1633650540, 1634699880, 1635749220, 1636798560, 1637847900,
+        1638897240, 1639946580, 1640995920, 1642045260, 1643094600, 1644143940,
+        1645193280
+      ],
+      "returns": [
+        0, -4.86, 14.34, 6.27, 25.55, 34.17, 63.36, 76.21, 23.05, 15.85, 10.42,
+        3.97, 2.03, 10.59, 41.74, 70.56, 107.75, 116.78, 97.73, 132.82, 149.24,
+        182.79, 207.93, 190.02, 168.53, 144.7, 134.11, 110.97, 45.03, 80.5,
+        64.67
+      ]
+    }
+  }
+}

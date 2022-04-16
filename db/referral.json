@@ -1,0 +1,21 @@
+{
+  "currency": "$",
+  "currencyName": "USD",
+  "senPieWallet": 500,
+  "prepaidWallet": 100,
+  "earnings": {
+    "total": 1000,
+    "thisMonth": 1000,
+    "investedReferrals": 100
+  },
+  "friendsJoined": 200,
+  "referralLink": "https://senpie.com/signup?referral_code=TARU2033",
+  "referralCode": "TARU2033",
+  "referralText": " Join me and 50,000 other investors on Mudrex to invest in crypto solutions for long-term returns. Get a free $25 reward straight into your Senpie wallet by activating your account using this link. Limited time offer only",
+  "invitees": {
+    "data": [
+      { "name": "Person 1", "amount": 500 },
+      { "name": "Person 2", "amount": 500 }
+    ]
+  }
+}
