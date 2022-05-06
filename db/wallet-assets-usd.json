@@ -1,0 +1,37 @@
+{
+  "tableBodyData": [
+    {
+      "id": "xxx1",
+      "image": "https://images.mudrex.com/BTC.png",
+      "name": {
+        "title": "BitCoin",
+        "subtitle": "BTC"
+      },
+      "balance": "500 USD",
+      "availableToInvest": "500 USD",
+      "action": "Trasnfer"
+    },
+    {
+      "id": "xxx2",
+      "image": "https://images.mudrex.com/BTC.png",
+      "name": {
+        "title": "BitCoin",
+        "subtitle": "BTC"
+      },
+      "balance": "500 USD",
+      "availableToInvest": "500 USD",
+      "action": "Trasnfer"
+    },
+    {
+      "id": "xxx3",
+      "image": "https://images.mudrex.com/BTC.png",
+      "name": {
+        "title": "BitCoin",
+        "subtitle": "BTC"
+      },
+      "balance": "500 USD",
+      "availableToInvest": "500 USD",
+      "action": "Trasnfer"
+    }
+  ]
+}

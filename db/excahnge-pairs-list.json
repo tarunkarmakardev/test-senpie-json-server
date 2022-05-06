@@ -1,0 +1,59 @@
+{
+  "tableBodyData": [
+    {
+      "id": "GMT_USDT",
+      "tradingPair": ["GMT", "USDT"],
+      "price": {
+        "value": "1.0225",
+        "isPositive": true
+      },
+      "values": {
+        "oneDay": "675.5K"
+      }
+    },
+    {
+      "id": "DAI_USDT",
+      "tradingPair": ["DAI", "USDT"],
+      "price": {
+        "value": "3.0225",
+        "isPositive": true
+      },
+      "values": {
+        "oneDay": "675.5K"
+      }
+    },
+    {
+      "id": "LUNA_USDT",
+      "tradingPair": ["LUNA", "USDT"],
+      "price": {
+        "value": "5.125",
+        "isPositive": false
+      },
+      "values": {
+        "oneDay": "675.5K"
+      }
+    },
+    {
+      "id": "BLZ-USDT",
+      "tradingPair": ["BLZ", "USDT"],
+      "price": {
+        "value": "2.125",
+        "isPositive": false
+      },
+      "values": {
+        "oneDay": "675.5K"
+      }
+    },
+    {
+      "id": "BNB-USDT",
+      "tradingPair": ["BNB", "USDT"],
+      "price": {
+        "value": "3.125",
+        "isPositive": false
+      },
+      "values": {
+        "oneDay": "675.5K"
+      }
+    }
+  ]
+}

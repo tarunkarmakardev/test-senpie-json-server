@@ -10,62 +10,6 @@
     "investorsCount": 3000,
     "isFree": true,
     "originalMonthlyFee": "2%",
-    "coinsData": [
-      {
-        "color": "#ffff",
-        "image": "https://images.mudrex.com/BTC.png",
-        "title": "BTC",
-        "weightage": 10
-      },
-      {
-        "color": "#ffff",
-        "image": "https://images.mudrex.com/ETH.png",
-        "title": "ETH",
-        "weightage": 15
-      },
-      {
-        "color": "#ffff",
-        "image": "https://images.mudrex.com/BNB.png",
-        "title": "BNB",
-        "weightage": 10
-      },
-      {
-        "color": "#ffff",
-        "image": "https://images.mudrex.com/ADA.png",
-        "title": "ADA",
-        "weightage": 10
-      },
-      {
-        "color": "#ffff",
-        "image": "https://images.mudrex.com/SOL.png",
-        "title": "SOL",
-        "weightage": 5
-      },
-      {
-        "color": "#ffff",
-        "image": "https://images.mudrex.com/ALGO.png",
-        "title": "ALGO",
-        "weightage": 10
-      },
-      {
-        "color": "#ffff",
-        "image": "https://images.mudrex.com/DOT.png",
-        "title": "DOT",
-        "weightage": 10
-      },
-      {
-        "color": "#ffff",
-        "image": "https://images.mudrex.com/AXS.png",
-        "title": "AXS",
-        "weightage": 10
-      },
-      {
-        "color": "#ffff",
-        "image": "https://images.mudrex.com/ENJ.png",
-        "title": "ENJ",
-        "weightage": 20
-      }
-    ],
     "supportedExchanges": [
       {
         "image": "https://mudrex.com/assets/exchange-icons/binance.png",

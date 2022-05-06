@@ -13,55 +13,46 @@
     "piesData": [
       {
         "color": "#ffff",
-        "image": "https://images.mudrex.com/BTC.png",
-        "title": "BTC",
+        "title": "Meme Pie 1",
         "weightage": 10
       },
       {
         "color": "#ffff",
-        "image": "https://images.mudrex.com/ETH.png",
-        "title": "ETH",
+        "title": "Meme Pie 2",
         "weightage": 15
       },
       {
         "color": "#ffff",
-        "image": "https://images.mudrex.com/BNB.png",
-        "title": "BNB",
+        "title": "Meme Pie 3",
         "weightage": 10
       },
       {
         "color": "#ffff",
-        "image": "https://images.mudrex.com/ADA.png",
-        "title": "ADA",
+        "title": "Mem Pie 4",
         "weightage": 10
       },
       {
         "color": "#ffff",
-        "image": "https://images.mudrex.com/SOL.png",
-        "title": "SOL",
+        "title": "NFT Pie 1",
         "weightage": 5
       },
       {
         "color": "#ffff",
-        "image": "https://images.mudrex.com/ALGO.png",
-        "title": "ALGO",
+        "title": "NFT Pie 2",
         "weightage": 10
       },
       {
         "color": "#ffff",
-        "image": "https://images.mudrex.com/DOT.png",
-        "title": "DOT",
+        "title": "NFT Pie 3",
         "weightage": 10
       },
       {
         "color": "#ffff",
-        "image": "https://images.mudrex.com/AXS.png",
         "title": "AXS",
         "weightage": 10
       },
       {
         "color": "#ffff",
-        "image": "https://images.mudrex.com/ENJ.png",
         "title": "ENJ",
         "weightage": 20
       }

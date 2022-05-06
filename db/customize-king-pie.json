@@ -14,57 +14,48 @@
   "profitsGained": 1000,
   "piesData": [
     {
-      "color": "ffffff",
-      "image": "https://images.mudrex.com/BTC.png",
-      "title": "BTC",
+      "color": "#ffff",
+      "title": "Meme Pie 1",
       "weightage": 10
     },
     {
-      "color": "ffffff",
-      "image": "https://images.mudrex.com/ETH.png",
-      "title": "ETH",
+      "color": "#ffff",
+      "title": "Meme Pie 2",
       "weightage": 15
     },
     {
-      "color": "ffffff",
-      "image": "https://images.mudrex.com/BNB.png",
-      "title": "BNB",
+      "color": "#ffff",
+      "title": "Meme Pie 3",
       "weightage": 10
     },
     {
-      "color": "ffffff",
-      "image": "https://images.mudrex.com/ADA.png",
-      "title": "ADA",
+      "color": "#ffff",
+      "title": "Mem Pie 4",
       "weightage": 10
     },
     {
-      "color": "ffffff",
-      "image": "https://images.mudrex.com/SOL.png",
-      "title": "SOL",
+      "color": "#ffff",
+      "title": "NFT Pie 1",
       "weightage": 5
     },
     {
-      "color": "ffffff",
-      "image": "https://images.mudrex.com/ALGO.png",
-      "title": "ALGO",
+      "color": "#ffff",
+      "title": "NFT Pie 2",
       "weightage": 10
     },
     {
-      "color": "ffffff",
-      "image": "https://images.mudrex.com/DOT.png",
-      "title": "DOT",
+      "color": "#ffff",
+      "title": "NFT Pie 3",
       "weightage": 10
     },
     {
-      "color": "ffffff",
-      "image": "https://images.mudrex.com/AXS.png",
-      "title": "AXS",
+      "color": "#ffff",
+      "title": "NFT Pie 4",
       "weightage": 10
     },
     {
-      "color": "ffffff",
-      "image": "https://images.mudrex.com/ENJ.png",
-      "title": "ENJ",
+      "color": "#ffff",
+      "title": "NFT Pie 5",
       "weightage": 20
     }
   ],

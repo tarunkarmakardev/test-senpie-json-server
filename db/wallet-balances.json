@@ -1,0 +1,10 @@
+{
+  "currency": "$",
+  "currencyName": "USD",
+  "balances": {
+    "total": 1000,
+    "bnbBalance": 0.0,
+    "senPieTokensBalance": 1000,
+    "investedAmount": 1000
+  }
+}
